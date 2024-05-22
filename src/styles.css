@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.is-invalid {
+    border: 1px solid red;
+    background-color: #ffdddd;
+  }
+  
+  .is-valid {
+    border: 1px solid green;
+    background-color: #ddffdd;
+  }
